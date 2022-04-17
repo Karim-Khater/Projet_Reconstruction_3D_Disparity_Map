@@ -8,3 +8,7 @@ Pour que le programme fonctionne vous devez avoir un dossier nommé ``Disp_2_png
 - **ligne 307/308 :** ici vous pouvez assigner la position de la caméra dans la grille utilisée dans ``multiple_projection()``
 - A la fin, dans le terminal utilisez ``python3 .\Comp_Disp.py`` pour executer le programme.
 
+
+UPDATE (17/04/2022)
+- ADDED error evaluation function for the multiple images projection function
+
