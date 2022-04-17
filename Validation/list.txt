@@ -1,0 +1,6 @@
+Church
+Corridor
+Lounge
+Patio
+Window
+WoodenHouse

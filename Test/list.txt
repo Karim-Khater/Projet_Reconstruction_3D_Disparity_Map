@@ -1,0 +1,7 @@
+Cages
+Classroom
+Loft
+Saloon
+Shed
+Shelf
+VanGogh
